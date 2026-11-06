@@ -1,4 +1,3 @@
-Ahmed Hatem 👨‍💻
 
 Information Technology Student | Developer in Progress
 
@@ -8,7 +7,7 @@ I'm an IT student passionate about programming, software development, and techno
 
 I'm documenting my learning journey, university projects, practical exercises, and everything I build along the way.
 
-🎓 What I'm Learning
+ What I'm Learning
 
 - C++ Programming
 - Database Design & Oracle SQL
@@ -17,19 +16,17 @@ I'm documenting my learning journey, university projects, practical exercises, a
 - Flutter & Mobile App Development
 - Computer Science Fundamentals
 
-🚀 My Goals
+ My Goals
 
 - Build real-world software projects.
 - Improve my programming skills.
 - Understand software and database architecture.
 - Turn ideas into practical applications.
 
-📂 My Learning Journey
+ My Learning Journey
 
 This GitHub profile is my technical notebook where I share my progress, code, projects, and experiments.
 
 Learning every day. Building step by step.
 
----
-
-Ahmed Hatem | IT Student
+ IT Student
