@@ -1,16 +1,35 @@
-## Hi there 👋
+Ahmed Hatem 👨‍💻
 
-<!--
-**lsran8898-hub/lsran8898-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology Student | Developer in Progress
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT student passionate about programming, software development, and technology.
+
+I'm documenting my learning journey, university projects, practical exercises, and everything I build along the way.
+
+🎓 What I'm Learning
+
+- C++ Programming
+- Database Design & Oracle SQL
+- Front-End Development
+- HTML, CSS & JavaScript
+- Flutter & Mobile App Development
+- Computer Science Fundamentals
+
+🚀 My Goals
+
+- Build real-world software projects.
+- Improve my programming skills.
+- Understand software and database architecture.
+- Turn ideas into practical applications.
+
+📂 My Learning Journey
+
+This GitHub profile is my technical notebook where I share my progress, code, projects, and experiments.
+
+Learning every day. Building step by step.
+
+---
+
+Ahmed Hatem | IT Student
